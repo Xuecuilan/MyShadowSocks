@@ -4,7 +4,7 @@ fun  main(args: Array<String>){
 	val Str = "ljklj"
 
 	println(Str)
-
+//这是list的推送
 	println(args)
 
 }
